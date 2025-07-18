@@ -1,0 +1,17 @@
+[project]
+name = "netflix-ai-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=0.3.26",
+    "langgraph>=0.5.3",
+    "matplotlib>=3.10.3",
+    "notebook>=7.4.4",
+    "numpy>=2.3.1",
+    "openai>=1.95.1",
+    "pandas>=2.3.1",
+    "seaborn>=0.13.2",
+    "streamlit>=1.46.1",
+]
